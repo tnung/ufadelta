@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle ufadelta",
+        "command": "ufadelta:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "ufadelta",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "ufadelta:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
