@@ -1,9 +1,11 @@
 {
   "name": "ufadelta",
   "main": "./lib/ufadelta",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A short description of your package",
-  "keywords": ["delta","ufa"
+  "keywords": [
+    "delta",
+    "ufa"
   ],
   "activationCommands": {
     "atom-workspace": "ufadelta:toggle"
@@ -13,6 +15,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
