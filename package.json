@@ -1,16 +1,18 @@
 {
-  "name": "ufateam",
-  "theme": "syntax",
-  "version": "3.0.1",
-  "description": "test mini xxx  เว็บเดิมพัน ดีไหม ?",
+  "name": "ufadelta",
+  "main": "./lib/ufaxxx",
+  "version": "0.0.0",
+  "description": "A short description of your package",
   "keywords": [
-    "member.",
-    "ไฮโลออนไลน์ ",
-    "ufa เเชมเปียนลีกส์ 2015"
   ],
+  "activationCommands": {
+    "atom-workspace": "ufaxxx:toggle"
+  },
   "repository": "https://github.com/tnung/ufadelta",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
   }
 }
